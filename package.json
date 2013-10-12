@@ -1,24 +1,36 @@
 {
-  "name": "grunt-responsive-images",
+  "name": "grunt-responsive-images-tomtom",
   "description": "Produces images at different sizes",
-  "version": "0.0.3",
-  "homepage": "https://github.com/andismith/grunt-responsive-images",
-  "author": {
-    "name": "andismith",
-    "email": "andi.smith.uk@gmail.com",
-    "url": "http://www.andismith.com"
-  },
+  "version": "0.0.4",
+  "homepage": "https://github.com/maslen/grunt-responsive-images",
+  "author": [
+    {
+      "name": "andismith",
+      "email": "andi.smith.uk@gmail.com",
+      "url": "http://www.andismith.com"
+    },
+    {
+      "name": "Tom Maslen",
+      "email": "tom_maslen@hotmail.com",
+      "url": "http://tmaslen.com"
+    },
+    {
+      "name": "Tom Parisot",
+      "email": "thomas@oncle-tom.net",
+      "url": "https://oncletom.io/"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/andismith/grunt-responsive-images.git"
+    "url": "git://github.com/maslen/grunt-responsive-images.git"
   },
   "bugs": {
-    "url": "https://github.com/andismith/grunt-responsive-images/issues"
+    "url": "https://github.com/maslen/grunt-responsive-images/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/andismith/grunt-responsive-images/blob/master/LICENSE-MIT"
+      "url": "https://github.com/maslen/grunt-responsive-images/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
